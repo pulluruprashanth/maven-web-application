@@ -29,6 +29,25 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 
+<repositories>
+         <repository>
+                <id>central</id>
+                 <url>http://13.235.45.158:8081/repository/prashanth-proxy/</url>
+          </repository>
+        <repository>
+                <id>hosted</id>
+                 <url>http://13.235.45.158:8081/repository/prashanth-releases/</url>
+          </repository>
+  </repositories>
+      
+    <pluginRepositories>
+        <pluginRepository>
+                      <id>central</id>
+                      <url>http://13.235.45.158:8081/repository/prashanth-proxy/</url>
+         </pluginRepository>
+    </pluginRepositories>	
+	
+	
 	<dependencies>
 
 		<!-- test dependencies -->
