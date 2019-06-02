@@ -32,18 +32,18 @@
 <repositories>
          <repository>
                 <id>central</id>
-                 <url>http://13.235.45.158:8081/repository/prashanth-mixed/</url>
+                 <url>http://35.154.241.132:8081/repository/prashanth-mixed/</url>
           </repository>
         <repository>
                 <id>hosted</id>
-                 <url>http://13.235.45.158:8081/repository/prashanth-mixed/</url>
+                 <url>http://35.154.241.132:8081/repository/prashanth-mixed/</url>
           </repository>
   </repositories>
       
     <pluginRepositories>
         <pluginRepository>
                       <id>central</id>
-                      <url>http://13.235.45.158:8081/repository/prashanth-mixed/</url>
+                      <url>http://35.154.241.132:8081/repository/prashanth-mixed/</url>
          </pluginRepository>
     </pluginRepositories>	
 	
