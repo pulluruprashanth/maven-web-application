@@ -109,12 +109,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.45.158:8081/repository/mt-releases/</url>
+	      <url>http://35.154.241.132:8081/repository/prashanth-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.45.158:8081/repository/prashanth-snapshots/</url>
+	      <url>http://35.154.241.132:8081/repository/prashanth-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
